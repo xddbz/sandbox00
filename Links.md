@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-10 15:30 IR
+- 📱 [v2rayNG_2.0.18_arm64-v8a.apk](https://github.com/xddbz/sandbox00/raw/main/dl/v2rayNG_2.0.18_arm64-v8a.apk) `26.8MB`
+
+---
+
+
 ### 📅 2026-05-10 10:29 IR
 - 📱 [v2rayNG_2.1.7_arm64-v8a.apk](https://github.com/ConfigWireguard/sandbox/raw/main/dl/v2rayNG_2.1.7_arm64-v8a.apk) `26.8MB`
 
